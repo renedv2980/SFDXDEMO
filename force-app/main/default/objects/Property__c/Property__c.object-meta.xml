@@ -46,7 +46,7 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>Property_Compact_Layout</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>created REP ON GITHUB NAMED </description>
+    <description>created REP ON GITHUB NAMED SFDXDEMO WITH BRANCH IKAN_SFDX_DEMO </description>
     <enableActivities>true</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableChangeDataCapture>false</enableChangeDataCapture>
